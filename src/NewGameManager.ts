@@ -1,3 +1,4 @@
+// chess-backend/src/NewGameManager.ts
 import { WebSocket } from "ws";
 import { INIT_GAME, MOVE } from "./messages";
 import { GameData } from "./Game";
